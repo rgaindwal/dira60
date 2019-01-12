@@ -1,9 +1,10 @@
 EESchema Schematic File Version 4
+LIBS:dira60-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -653,4 +654,10 @@ Wire Wire Line
 	3050 2200 3250 2200
 Wire Wire Line
 	3250 2400 3050 2400
+$Sheet
+S 13700 -200 4200 1650
+U 5C3ADE7A
+F0 "Matrix" 50
+F1 "file5C3ADE79.sch" 50
+$EndSheet
 $EndSCHEMATC
