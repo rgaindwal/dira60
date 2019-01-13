@@ -1,0 +1,475 @@
+Cmp-Mod V01 Created by PcbNew   date = 13-Jan-19 07:04:27 AM
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW0;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW1;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW2;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW3;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW4;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW5;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW6;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW7;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW8;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW9;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW10;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW11;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW12;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW13;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u2_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW14;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.5_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW15;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW16;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW17;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW18;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW19;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW20;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW21;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW22;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW23;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW24;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW25;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW26;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW27;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.5_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW28;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.75_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW29;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW30;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW31;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW32;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW33;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW34;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW35;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW36;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW37;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW38;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW39;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW40;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u2.25_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW41;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u2.25_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW42;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW43;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW44;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW45;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW46;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW47;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW48;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW49;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW50;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW51;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW52;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.75_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW53;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW54;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW55;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.5_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW56;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW57;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1.5_NoSilk_Back;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = SW58;
+ValeurCmp = SW_MX;
+IdModule  = Cherry_MX_Matias_u1_NoSilk_Back;
+EndCmp
+
+EndListe
