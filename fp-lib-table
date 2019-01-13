@@ -4,4 +4,6 @@
   (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/keebs.pretty)(options "")(descr ""))
+  (lib (name kicad_lib_tmk)(type KiCad)(uri ${KIPRJMOD}/kicad_lib_tmk)(options "")(descr ""))
 )
