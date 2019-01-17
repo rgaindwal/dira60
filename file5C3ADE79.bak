@@ -292,8 +292,6 @@ Wire Wire Line
 Connection ~ 5400 1650
 Wire Wire Line
 	5375 1650 5400 1650
-Wire Wire Line
-	6550 4925 6675 4925
 Connection ~ 4825 1650
 Wire Wire Line
 	4800 1650 4825 1650
@@ -2064,4 +2062,6 @@ Text GLabel 1675 3650 0    50   Input ~ 0
 ROW2
 Text GLabel 1675 4425 0    50   Input ~ 0
 ROW3
+Wire Wire Line
+	6525 4925 6675 4925
 $EndSCHEMATC
