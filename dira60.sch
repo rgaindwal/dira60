@@ -221,7 +221,7 @@ U 1 1 5C3DE1D0
 P 10150 5450
 F 0 "X0" H 10150 5742 60  0000 C CNN
 F 1 "XTAL_GND" H 10150 5636 60  0000 C CNN
-F 2 "Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm" H 10150 5450 60  0001 C CNN
+F 2 "keyboard_parts:FA-238" H 10150 5450 60  0001 C CNN
 F 3 "" H 10150 5450 60  0000 C CNN
 	1    10150 5450
 	1    0    0    -1  
@@ -235,7 +235,7 @@ F 1 "22p" H 9892 5605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9800 5650 50  0001 C CNN
 F 3 "~" H 9800 5650 50  0001 C CNN
 	1    9800 5650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:C_Small C10
@@ -259,10 +259,6 @@ F 3 "" H 10150 5850 50  0001 C CNN
 	1    10150 5850
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9800 5750 9800 5800
-Wire Wire Line
-	10500 5750 10500 5800
 $Comp
 L power:VCC #PWR0112
 U 1 1 5C3EE897
@@ -417,14 +413,11 @@ Connection ~ 5400 5150
 Wire Wire Line
 	4900 5150 4500 5150
 Connection ~ 4900 5150
-Connection ~ 4500 5150
 Connection ~ 5500 1400
 Wire Wire Line
 	5500 1400 5600 1400
 Wire Wire Line
 	4750 1400 4950 1400
-Wire Wire Line
-	5400 1450 4950 1450
 Wire Wire Line
 	4950 1450 4950 1400
 Connection ~ 4950 1400
@@ -458,14 +451,10 @@ Connection ~ 3450 4950
 Wire Wire Line
 	5500 1450 5600 1450
 Connection ~ 5500 1450
-Connection ~ 5600 1450
 Wire Wire Line
 	5500 1400 5500 1450
 Wire Wire Line
 	4950 1400 5500 1400
-Wire Wire Line
-	5400 1450 5500 1450
-Connection ~ 5400 1450
 $Comp
 L Type-C:HRO-TYPE-C-31-M-12 USB0
 U 1 1 5C46EE63
@@ -638,15 +627,6 @@ Wire Wire Line
 NoConn ~ 2975 5650
 NoConn ~ 2975 5050
 Wire Wire Line
-	10500 5800 10150 5800
-Wire Wire Line
-	10150 5650 10150 5800
-Connection ~ 10150 5800
-Wire Wire Line
-	10150 5800 10150 5850
-Wire Wire Line
-	9800 5800 10150 5800
-Wire Wire Line
 	10450 5450 10500 5450
 Wire Wire Line
 	9850 5450 9800 5450
@@ -668,4 +648,60 @@ Text GLabel 4900 1950 0    50   Input ~ 0
 XTAL1
 Text GLabel 4900 2150 0    50   Input ~ 0
 XTAL2
+Text GLabel 7575 3375 2    50   Input ~ 0
+ROW0
+Text GLabel 7675 3475 0    50   Input ~ 0
+ROW1
+Text GLabel 7775 3650 0    50   Input ~ 0
+ROW2
+Text GLabel 7800 3850 0    50   Input ~ 0
+ROW3
+Text GLabel 6100 3550 2    50   Input ~ 0
+COL14
+Text GLabel 6100 3350 2    50   Input ~ 0
+COL12
+Text GLabel 6100 2150 2    50   Input ~ 0
+COL11
+Text GLabel 6100 2250 2    50   Input ~ 0
+COL10
+Text GLabel 6100 2350 2    50   Input ~ 0
+COL9
+Text GLabel 6100 2650 2    50   Input ~ 0
+COL8
+Text GLabel 6100 2750 2    50   Input ~ 0
+COL7
+Text GLabel 4625 -75  1    50   Input ~ 0
+COL6
+Text GLabel 4025 -75  1    50   Input ~ 0
+COL5
+Text GLabel 3450 -75  1    50   Input ~ 0
+COL4
+Text GLabel 2850 -50  1    50   Input ~ 0
+COL3
+Text GLabel 2100 -100 1    50   Input ~ 0
+COL2
+Text GLabel 7150 3700 2    50   Input ~ 0
+COL1
+Text GLabel 7175 3825 2    50   Input ~ 0
+COL0
+Text GLabel 6100 3650 2    50   Input ~ 0
+COL13
+Connection ~ 5400 1450
+Connection ~ 5600 1450
+Wire Wire Line
+	5400 1450 5500 1450
+Wire Wire Line
+	5400 1450 4950 1450
+Connection ~ 4500 5150
+Wire Wire Line
+	10150 5850 10150 5650
+Wire Wire Line
+	10500 5750 10500 5850
+Wire Wire Line
+	10500 5850 10150 5850
+Connection ~ 10150 5850
+Wire Wire Line
+	9800 5750 9800 5850
+Wire Wire Line
+	9800 5850 10150 5850
 $EndSCHEMATC

@@ -169,14 +169,6 @@ Text GLabel 2300 1250 1    50   Input ~ 0
 COL0
 Text GLabel 1650 5350 0    50   Input ~ 0
 ROW4
-Text GLabel 1675 4425 0    50   Input ~ 0
-ROW3
-Text GLabel 1675 3650 0    50   Input ~ 0
-ROW2
-Text GLabel 1650 2900 0    50   Input ~ 0
-ROW1
-Text GLabel 1600 2100 0    50   Input ~ 0
-ROW0
 Wire Wire Line
 	11000 1650 10925 1650
 Wire Wire Line
@@ -2064,4 +2056,12 @@ F 3 "" H 10700 1650 60  0001 C CNN
 	1    10725 1675
 	1    0    0    -1  
 $EndComp
+Text GLabel 1600 2100 0    50   Input ~ 0
+ROW0
+Text GLabel 1650 2900 0    50   Input ~ 0
+ROW1
+Text GLabel 1675 3650 0    50   Input ~ 0
+ROW2
+Text GLabel 1675 4425 0    50   Input ~ 0
+ROW3
 $EndSCHEMATC
