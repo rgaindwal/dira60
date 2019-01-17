@@ -670,15 +670,15 @@ Text GLabel 6100 2650 2    50   Input ~ 0
 COL8
 Text GLabel 6100 2750 2    50   Input ~ 0
 COL7
-Text GLabel 4625 -75  1    50   Input ~ 0
+Text GLabel 6100 2950 2    50   Input ~ 0
 COL6
-Text GLabel 4025 -75  1    50   Input ~ 0
+Text GLabel 6100 3050 2    50   Input ~ 0
 COL5
-Text GLabel 3450 -75  1    50   Input ~ 0
+Text GLabel 6100 3150 2    50   Input ~ 0
 COL4
-Text GLabel 2850 -50  1    50   Input ~ 0
+Text GLabel 6100 3250 2    50   Input ~ 0
 COL3
-Text GLabel 2100 -100 1    50   Input ~ 0
+Text GLabel 6100 3450 2    50   Input ~ 0
 COL2
 Text GLabel 7150 3700 2    50   Input ~ 0
 COL1
