@@ -648,13 +648,13 @@ Text GLabel 4900 1950 0    50   Input ~ 0
 XTAL1
 Text GLabel 4900 2150 0    50   Input ~ 0
 XTAL2
-Text GLabel 7575 3375 2    50   Input ~ 0
+Text GLabel 6100 4250 2    50   Input ~ 0
 ROW0
-Text GLabel 7675 3475 0    50   Input ~ 0
+Text GLabel 6100 4350 2    50   Input ~ 0
 ROW1
-Text GLabel 7775 3650 0    50   Input ~ 0
+Text GLabel 6100 4450 2    50   Input ~ 0
 ROW2
-Text GLabel 7800 3850 0    50   Input ~ 0
+Text GLabel 6100 4550 2    50   Input ~ 0
 ROW3
 Text GLabel 6100 3550 2    50   Input ~ 0
 COL14
@@ -680,9 +680,9 @@ Text GLabel 6100 3250 2    50   Input ~ 0
 COL3
 Text GLabel 6100 3450 2    50   Input ~ 0
 COL2
-Text GLabel 7150 3700 2    50   Input ~ 0
+Text GLabel 6100 4650 2    50   Input ~ 0
 COL1
-Text GLabel 7175 3825 2    50   Input ~ 0
+Text GLabel 6100 4150 2    50   Input ~ 0
 COL0
 Text GLabel 6100 3650 2    50   Input ~ 0
 COL13
@@ -704,4 +704,6 @@ Wire Wire Line
 	9800 5750 9800 5850
 Wire Wire Line
 	9800 5850 10150 5850
+Text GLabel 6100 2450 2    50   Input ~ 0
+ROW4
 $EndSCHEMATC
