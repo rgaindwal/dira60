@@ -271,17 +271,6 @@ F 3 "" H 4900 2550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U0
-U 1 1 5C3A488E
-P 5500 3250
-F 0 "U0" H 5700 1500 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 5950 1400 50  0000 C CNN
-F 2 "keyboard_parts:QFN-44-1EP_7x7mm_Pitch0.5mm" H 5500 3250 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 5500 3250 50  0001 C CNN
-	1    5500 3250
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:C_Small C3
 U 1 1 5C3FCF60
 P 9350 3800
@@ -648,11 +637,11 @@ Text GLabel 4900 1950 0    50   Input ~ 0
 XTAL1
 Text GLabel 4900 2150 0    50   Input ~ 0
 XTAL2
-Text GLabel 6100 4250 2    50   Input ~ 0
+Text GLabel 6100 2450 2    50   Input ~ 0
 ROW0
 Text GLabel 6100 4350 2    50   Input ~ 0
 ROW1
-Text GLabel 6100 4450 2    50   Input ~ 0
+Text GLabel 6100 4150 2    50   Input ~ 0
 ROW2
 Text GLabel 6100 4550 2    50   Input ~ 0
 ROW3
@@ -682,16 +671,10 @@ Text GLabel 6100 3450 2    50   Input ~ 0
 COL2
 Text GLabel 6100 4650 2    50   Input ~ 0
 COL1
-Text GLabel 6100 4150 2    50   Input ~ 0
+Text GLabel 6100 4250 2    50   Input ~ 0
 COL0
 Text GLabel 6100 3650 2    50   Input ~ 0
 COL13
-Connection ~ 5400 1450
-Connection ~ 5600 1450
-Wire Wire Line
-	5400 1450 5500 1450
-Wire Wire Line
-	5400 1450 4950 1450
 Connection ~ 4500 5150
 Wire Wire Line
 	10150 5850 10150 5650
@@ -704,11 +687,23 @@ Wire Wire Line
 	9800 5750 9800 5850
 Wire Wire Line
 	9800 5850 10150 5850
-Text GLabel 6100 2450 2    50   Input ~ 0
+Text GLabel 6100 4450 2    50   Input ~ 0
 ROW4
-NoConn ~ 6100 3950
-NoConn ~ 6100 1950
-NoConn ~ 6100 1850
-NoConn ~ 6100 1750
-NoConn ~ 6100 2050
+Connection ~ 5600 1450
+Wire Wire Line
+	5400 1450 4950 1450
+Wire Wire Line
+	5400 1450 5500 1450
+Connection ~ 5400 1450
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U0
+U 1 1 5C3A488E
+P 5500 3250
+F 0 "U0" H 5700 1500 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 5950 1400 50  0000 C CNN
+F 2 "keyboard_parts:QFN-44-1EP_7x7mm_Pitch0.5mm" H 5500 3250 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 5500 3250 50  0001 C CNN
+	1    5500 3250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
